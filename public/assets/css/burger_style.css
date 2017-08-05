@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
 	background-image: url(../img/geometry2.png);
 	font-family: "Saira Condensed", sans-serif;
 }
@@ -35,11 +34,3 @@ h2 {
 	font-family: "Saira Condensed", sans-serif;
 }
 
-.panel {
-	background-color: #A64AC9;
-	float: left;
-}
-
-img {
-	height: 40%;
-}
