@@ -1,0 +1,13 @@
+body {
+	background-color: #F5E6CC;
+	font-family: "Saira Condensed", sans-serif;
+}
+
+.panel {
+	background-color: #A64AC9;
+	float: left;
+}
+
+img {
+	height: 40%;
+}
